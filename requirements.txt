@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+pydantic
+langchain-core
+PyPDF2
+
